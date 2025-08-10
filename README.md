@@ -153,4 +153,26 @@ and energy usage. Per 1M tokens, we can drive a Tesla EV 27 miles, and it takes
 ![Road Trip](img/road-trip.png)
 ![20 Tubs](img/20-tubs.png)
 
-##
+## Crystal Balls
+
+### Cal Newport on Podcast "Plain English with Derek Thompson"
+
+https://podcast.app/will-ai-usher-in-the-end-of-deep-thinking-e421556857
+
+What actually do we _want_ to get out of AI? Culturally, economically? Educationally? In what ways does AI make us better? How is it making us intellectually lazy? Does reliance on AI reduce our ability to think, create, craft?
+
+Assuming we want to retain some/most/all elements of education that has been built over the past 300 years, what should we do? Make education more of a performance, requiring students to "defend" their perspectives, their facts, their arguments. "A question well asked is half-answered." - AI does not critique your line of questioning, but it is good at answering whatever you ask. They use the term "parasocial" in reference to how humans interact with AI, when the AI has a human-like conversational quality.
+
+How does the mere presence of "expert authority" affect our comfort with making assertions on topics that we are not good at? E.g. Aristotle was a polymath, in context of a society in which there was not expertise. So it was easier to break new ground because the ground was unbroken. The podcast makes the argument that Hellenistic thinking was possible because the culture of the era promoted thinking hard. I think there was also a cultural, social element to this as well.
+
+The article that Nikolaus had for suggested reading last semester argued that AI in the hands of a novice would not let the novice perform at the level of a human expert, but an expert with AI could use it to improve overall outcomes. Good judgement, critical thinking, and skepticism is required.
+
+### Inside the AI Hype Cycle, and how AI is Making Music
+
+Two pieces on the present and future of business and work in context of AI. They have an interesting contrast.
+
+https://podcasts.apple.com/us/podcast/inside-the-artificial-intelligence-hype-cycle-and-how/id73330715?i=1000716850910
+
+First bit is an interview with Ed Zitron ("a one man army of aggression against Sam Altman") who is hardly unbiased.
+
+Second bit is a personal story from a musician who contemplates the future of his job, profession, and passion in context of generative AI.
